@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>His Majesties speech spoken to the mayor, aldermen, and commonaltie of the citie of Oxford, and to the high sheriffes of the counties of Oxford and Berks, with divers justices of peace in the said counties, at a generall summons requesting their assistance by contribution of money, plate, and horses, towards the supportment of his present wars.</title>
+            <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+         </titleStmt>
+         <extent>Approx. 11KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B19217</idno><idno type="EEBO-CITATION">12152558</idno>
+  <idno type="VID">196971</idno>
+  <idno type="EEBO-PROQUEST">2248569994</idno>
+  
+            <idno type="STC">Wing C2796</idno>
+            <idno type="OCLC">12152558</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B19217)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 196971)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 242:E84, no 43)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>His Majesties speech spoken to the mayor, aldermen, and commonaltie of the citie of Oxford, and to the high sheriffes of the counties of Oxford and Berks, with divers justices of peace in the said counties, at a generall summons requesting their assistance by contribution of money, plate, and horses, towards the supportment of his present wars.</title>
+                  <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+                  <author>Charles I, King of England, 1600-1649.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>by Leonard Lichfield ...,</publisher>
+                  <pubPlace>Printed at Oxford :</pubPlace>
+                  <date>1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Thomason Collection, British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:196971:1"/>
+            <p>His Majesties SPEECH SPOKEN TO The Mayor, Aldermen, and Commonaltie of the Citie of OXFORD, and to the High Sheriffes of the Counties of OXFORD and BERKS, with di<g ref="char:EOLhyphen"/>vers Justices of Peace in the said Counties, at a generall SUMMONS.</p>
+            <p>Requesting their assistance by con<g ref="char:EOLhyphen"/>tribution of money, plate, and horses, towards the supportment of his present wars.</p>
+            <figure>
+               <figDesc>arms of Charles I</figDesc>
+               <head>C R</head>
+               <q>
+                  <gap reason="illegible" resp="#murp" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </q>
+            </figure>
+            <p>Printed at Oxford by <hi>Leonard Lichfield,</hi> Printer to the Universitie. 1643.</p>
+         </div>
+      </front>
+      <body>
+         <div type="speech">
+            <pb facs="tcp:196971:2"/>
+            <pb n="3" facs="tcp:196971:2"/>
+            <head>His Majesties <hi>Speech</hi> to the Maior, Aldermen, and Commonalty of the Citie of <hi>Oxford.</hi>
+            </head>
+            <opener>
+               <salute>M<seg rend="sup">r.</seg> MAIOR,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg>T being in this City, whereof you are under Us, the immediate Gover<g ref="char:EOLhyphen"/>nour, We should think it fit to deli<g ref="char:EOLhyphen"/>ver Our intentions to you in the first place, but that the affaires for which We caused both you and these wor<g ref="char:EOLhyphen"/>thy Gentlemen to be summoned, tends to one purpose and effect, and therefore in common Wee shall give notice to you of Our desires, which surely (so good a confi<g ref="char:EOLhyphen"/>dence have We of your loyalty to Us and Our Cause) We shall not be readier to propound to you then you to will be prompt to accomplish. But would heaven had been pleased to have so disposed of the businesse of this Our Kingdome, that We had never had any cause to make these Propositions to you; Wee should rather then have indevoured to have augmented your estates by Our bounty, then have any wayes diminished them by Our necessity. But there is no resisting
+<pb n="4" facs="tcp:196971:3"/> the Divine pleasure, whose judgements are inscrutable, and who for Our offences, and the sins of Our people, hath been pleased to inflict on this Our late happy Land, all the mi<g ref="char:EOLhyphen"/>series which can arise from a civill war, then which no grea<g ref="char:EOLhyphen"/>ter can be contingent to mankind▪ for to behold brothers killing brothers, fathers their children, and children their fa<g ref="char:EOLhyphen"/>thers; to se<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the honest and well gotten goods of divers sub<g ref="char:EOLhyphen"/>stantiall men of Our Kingdome taken violently from them, and by their fellow-subjects, acquain<gap reason="illegible" resp="#keyers" extent="5 letters">
+                  <desc>•••••</desc>
+               </gap> and friends; to view houses and townships fired and plundered, certainly are spectacles of as much horror and pity as can be presen<g ref="char:EOLhyphen"/>ted, to dazle, and, as it were, make men sicken at the eyes by reviewing such lamentable objects, and all these in this Our Kingdome are daily conspicuous, which is now so much more wretched and unfortunate, by how much it hath been in times past, happy and flourishing, war and tumult being the more dreadfull and oppressive to Our Subjects, because they have beene rarely, and not these many yeeres seene among them, peace having so long been the <hi>Genius</hi> of this Island, whereas in the <hi>Low-countries</hi> and <hi>Germany,</hi> where the people are inured and habituated to military troubles, they indure them with even a naturall patience; as birds, who from the nest taken and put into Cages, sing there as cheerefully as if they were at libertie; those oppressions by custome being made tolerable to them, which to Our Subjects appeare insufferable.</p>
+            <p>And We may justly protest to you, Gentlemen, We are more afflicted at the sufferings of Our people, then forty for Our particular grievances, though surely but few Kings of th<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap> or any Christian Kingdome whatsoever hath under<g ref="char:EOLhyphen"/>gone the like disgraces and afflictions that Our Se<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e hath <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>one: First affronted at Our owne Palace, and driven away from thence, and consequently from Our Parliament which <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>th given life to all these ruines) by a multitude even of the <gap reason="illegible" resp="#keyers" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>est sort or Our owne Subjects, since which time We have <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Our Magazines seised on and imployed against Our
+<pb n="5" facs="tcp:196971:3"/> Selfe, Our Navie detained from Us; nay, We Our selfe de<g ref="char:EOLhyphen"/>nyed entrance into Our owne townes, unlesse Wee would contract Our traine to the appointment of Our Subjects; witnesse Sir <hi>Iohn Hothams</hi> usage to Us at <hi>Hall;</hi> and besides, Wee have undergone many wants of the due appertain<g ref="char:EOLhyphen"/>ments to Majesty, both in Our house-keeping and other wayes, being reduced to more exigents then divers private men; many of Our meniall servants refusing to give their attendance on Us, and We, in a mockery of fortune, forced to goe from place to place to beg assistance and reliefe from Our owne Subjects. But God in his good time will give an end to these troubles: in the <hi>interim,</hi> We must as well as We can, provide for Our defence, and the safety of those who depend upon Us: Our Parliament and Wee cannot yet be reconciled, though for Our part We should beg no other happinesse of heaven, no greater benefit in this life, then to have all differences attoned betwixt Us; for whilest we are at this variance, whosoever are gainers (which certainly are but <gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ew) We are sure to be loser: Wee lose Our Roy<g ref="char:EOLhyphen"/>alty in losing those additaments and supportments which should sustaine it, being debarred the benefit of Our Ex<g ref="char:EOLhyphen"/>chequer revenues and custome; Wee lose Our strength in the losse of our Subjects (the strength of Kings) and Wee lose that which is more pretious to Us then all things else, Our peace and quiet of mind, never free from cogitati<g ref="char:EOLhyphen"/>ons of Our peoples injuries and Our owne sufferings; so that We are even growne old in the vigour of Our yeeres by this continuall perplexity of care and troubles, which when they will arrive to a happy conclusion puts Our augury to Judge, though no indevour of Ours shall in any wise be wanting that may speedily terminate the mi<g ref="char:EOLhyphen"/>sery of these distractions: But in the meane time Our Par<g ref="char:EOLhyphen"/>liament hath of Us infinite advantages; they abound in money to pay their army with, whilest Ours are <gap reason="illegible" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> to maintaine themselves (as it were in charitie to Our ser<g ref="char:EOLhyphen"/>vice)
+<pb n="6" facs="tcp:196971:4"/> at their owne cost and expence; the Parliament having daily brought into <hi>Guildhall</hi> for their use (as Wee are surely informed) plate, money; and other conside<g ref="char:EOLhyphen"/>rable aids of horses subscribed for, not onely from all parts of the populous and wealthie City of <hi>London,</hi> but also from divers of the adjoyning Counties, as <hi>Hertford, Essex,</hi> and such like; so that they cheerefully may undertake these warrs, having so long a stocke of coyne to sup<g ref="char:EOLhyphen"/>port them.</p>
+            <p>A sad and unhappy accident it is for Us, that Our owne Subjects should with such willingnesse part with their estates, nay, lives against their Soveraigne: And surely, should these fatall wars (which heaven avert) con<g ref="char:EOLhyphen"/>tinue long, the very money which is in the power and at the dispose of the Parliament would sustaine them a<g ref="char:EOLhyphen"/>gainst Us, and be a maine blow to Our Cause, We having already made what shifts We can possible with Our honour for the advancement of monies for these our wars, &amp; yet are We neither so well furnished as Our occasions require, nor can they last long without some new supplyes. The cause then why We sent for you, Mr. Mayor and your Brethren, &amp; for you Gentlemed, the High Sheriffes and Justices of this and the neighbouring Countie, was to let you have a true understanding of Our urgent necessities, that by the know<g ref="char:EOLhyphen"/>ledge of them you might be excited as much as in you lyes, to endevour Our reliefe, which Wee conjecture you may effect to some proportionable quantitie of money, if you Mr. Mayor and your Brethren, will summon together all the able men and heads of your Citie, and to them plainly infer the wants of Us their Soveraigne, and induce as much as in you lyes (according to the example of the Citizens of London, for the use of the Parliament) to contribute everie man what money, plate, or horses, his abilitie can spare to furnish Our occasions with, yet Wee would not have you mistake Us in this matter, nor lay this as an injunction upon
+<pb n="7" facs="tcp:196971:4"/> your Citizens, which We only intended to intreat from them as the testimony of their loves; for that were to invert and alter the state of Our meaning quite, and it would give a large cause to them, who without any reason at all, forge occasions to scandalize Our proceedings, to exclaime that where the King could not borrow money by faire meanes, there He took it by force, as divers have already untruly re<g ref="char:EOLhyphen"/>ported of Us; for never will We of a King, the Protectour and Defender, turne the robber and destroyer of our good Subjects: No, let everie man, as the Israelites in the wil<g ref="char:EOLhyphen"/>dernesse to the building the Ark of the Testament, off<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r with a willing mind what hee pleases; neither directly or indirectly, by force or threatning language, fright mens con<g ref="char:EOLhyphen"/>tribution out of them: not that Wee did ever intend to re<g ref="char:EOLhyphen"/>ceive as a gift, what Wee intend only as a loane, and will with all integritie, on our Royall word, see honestly re<g ref="char:EOLhyphen"/>paid to the uttermost farthing, and We hope our good Sub<g ref="char:EOLhyphen"/>jects here will as soon take our Royall word for their securi<g ref="char:EOLhyphen"/>tie, as they at London have done, the publike faith for those vast and almost incredible sums, which have been raised for the maintenance of the Parliaments Forces: We are confi<g ref="char:EOLhyphen"/>dent We shall pay as honestly as they shall ever bee paid there, though Wee are not altogether so wealthy. God in his good time will restore Us to our owne, and then Wee shall have meanes sufficient to pay all our debts.</p>
+            <p>This is all, Mr. Mayor, Wee have at this present to say to your selfe and Brethren: And what is spoken to the Gen<g ref="char:EOLhyphen"/>tlemen, Wee would have you conceive is uttered to you; Wee would desire you our two Sheriffes of our Counties of <hi>Oxford</hi> and <hi>Berks,</hi> and you the Justices of Peace of our said Counties, to intimate our said request to all the Gentlemen of abilitie, and Yeomen of our said Counties, our wants are perspicuous and obvious to your understandings. Nor can there be a more noble addition to the honour of your loyal<g ref="char:EOLhyphen"/>ties, than that posteritie shall report of you, that you relieved your King in his necessitie. And for our after resentment
+<pb n="8" facs="tcp:196971:5"/> and remembrance of your fidelitie and courtesie to U<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> Leave that to Us, to think and determine of.</p>
+            <p>And last of all, Wee request both you Master Mayor, an<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> you Gentlemen, to be as speedy as you can in the pursuit o<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> this businesse; and so returne Us your answer. It will bee the last time We shall trouble you in this nature. Wee verily beleeve; for Wee hope a speedy reconciliation betwixt Us and our High Court of Parliament will give an <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd to these wofull distractions, in an happie peace; and then Wee shall take care to repay these moneys, and provide for all our peoples well-fare.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
